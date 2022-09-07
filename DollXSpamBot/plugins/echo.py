@@ -6,10 +6,10 @@ import requests
 from telethon import events
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
 
-from DEADLYSPAM import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, SUDO_USERS, OWNER_ID
-from DEADLYSPAM import CMD_HNDLR as hl
+from DollXSpamBot import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, SUDO_USERS, OWNER_ID
+from DollXSpamBot import CMD_HNDLR as hl
 from resources.data import GROUP, DEADLYSPAM
-from DEADLYSPAM.sql.echo_sql import addecho, get_all_echos, is_echo, remove_echo
+from DollXSpamBot.sql.echo_sql import addecho, get_all_echos, is_echo, remove_echo
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%saddecho(?: |$)(.*)" % hl))
