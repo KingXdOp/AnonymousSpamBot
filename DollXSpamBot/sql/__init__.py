@@ -6,7 +6,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import scoped_session, sessionmaker
 
 # Use Elephant Sql For Better Experience
-from DEADLYSPAM import DB_URI
+from DollXSpamBot import DB_URI
 
 
 def start() -> scoped_session:
