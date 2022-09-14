@@ -16,10 +16,9 @@ from time import time
 from datetime import datetime
 
 DEAD_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/f8d63b1dc5676fc9988f1.jpg"
-Alivemsg = ALIVE_MSG if ALIVE_MSG else "𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝙃𝙀𝙍𝙀."
 
 
-DEADLY = "✯ {Alivemsg} ✯\n\n"
+DEADLY = "✯ 𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝙃𝙀𝙍𝙀 ✯\n\n"
 DEADLY += f"═══════════════════\n"
 DEADLY += f"• **𝙿𝚈𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `3.10.1`\n"
 DEADLY += f"• **𝚃𝙴𝙻𝙴𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `{version.__version__}`\n"
