@@ -27,6 +27,8 @@ DEAD_Help += f" `!pornspam` - ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴅᴏɴ'ᴛ ᴜ�
 
 DEAD_Help += f" `!hang` - 😂 ↧\n\n"
 
+DEAD_Help += f" `!bspam` - 𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬 𝗦𝗣𝗔𝗠🥵 ↧\n\n"
+
 DEAD_Help += f"© @Dollx_spambot\n"
 
 
