@@ -89,55 +89,8 @@ async def ping(e):
         ms = (end-start).microseconds / 1000
         await event.edit(f"▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀\n▒█▀▀▄ ▒█░░▒█ ░▒█░░\n▒█▄▄█ ▒█▄▄▄█ ░▒█░░\n\n ⚡️𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝙃𝙀𝙍𝙀⚡️ \n\n❤️ `{ms}` 𝗺𝘀 ❤️")
         
-        
-def get_readable_time(seconds: int) -> str:
-    count = 0
-    ping_time = ""
-    time_list = []
-    time_suffix_list = ["s", "m", "h", "days"]
-
-    while count < 4:
-        count += 1
-        if count < 3:
-            remainder, result = divmod(seconds, 60)
-        else:
-            remainder, result = divmod(seconds, 24)
-        if seconds == 0 and remainder == 0:
-            break
-        time_list.append(int(result))
-        seconds = int(remainder)
-
-    for x in range(len(time_list)):
-        time_list[x] = str(time_list[x]) + time_suffix_list[x]
-    if len(time_list) == 4:
-        ping_time += time_list.pop() + ", "
-
-    time_list.reverse()
-    ping_time += ":".join(time_list)
-
-    return ping_time
-
-@BOT0.on(events.NewMessage(incoming=True, pattern=r"\%sdping(?: |$)(.*)" % hl))
-@BOT1.on(events.NewMessage(incoming=True, pattern=r"\%sdping(?: |$)(.*)" % hl))
-@BOT2.on(events.NewMessage(incoming=True, pattern=r"\%sdping(?: |$)(.*)" % hl))
-@BOT3.on(events.NewMessage(incoming=True, pattern=r"\%sdping(?: |$)(.*)" % hl))
-@BOT4.on(events.NewMessage(incoming=True, pattern=r"\%sdping(?: |$)(.*)" % hl))
-@BOT5.on(events.NewMessage(incoming=True, pattern=r"\%sdping(?: |$)(.*)" % hl))
-@BOT6.on(events.NewMessage(incoming=True, pattern=r"\%sdping(?: |$)(.*)" % hl))
-@BOT7.on(events.NewMessage(incoming=True, pattern=r"\%sdping(?: |$)(.*)" % hl))
-@BOT8.on(events.NewMessage(incoming=True, pattern=r"\%sdping(?: |$)(.*)" % hl))
-@BOT9.on(events.NewMessage(incoming=True, pattern=r"\%sdping(?: |$)(.*)" % hl))
-async def ping(e):
-    if e.sender_id in SUDO_USERS:
-        start = datetime.now()
-        text = "Pong!"
-        event = await e.reply(text, parse_mode=None, link_preview=None )
-        end = datetime.now()
-        ms = (end-start).microseconds / 1000
-        await event.edit(f"╔══╗╔═╗╔╗─╔╗────╔══╗╔═╗╔══╗╔═╦═╗╔══╗╔═╗╔══╗\n╚╗╗║║║║║║─║║─╔╦╗║══╣║╬║║╔╗║║║║║║║╔╗║║║║╚╗╔╝\n╔╩╝║║║║║╚╗║╚╗╠║╣╠══║║╔╝║╠╣║║║║║║║╔╗║║║║─║║─\n╚══╝╚═╝╚═╝╚═╝╚╩╝╚══╝╚╝─╚╝╚╝╚╩═╩╝╚══╝╚═╝─╚╝─\n───────────────────────────────────────────\n\n ⚡️𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝙃𝙀𝙍𝙀⚡️ \n\n❤️ `{ms}` 𝗺𝘀 ❤️")
-        
-        
-        
+                
+           
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 @BOT1.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 @BOT2.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
