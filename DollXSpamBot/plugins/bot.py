@@ -38,7 +38,7 @@ async def alive(event):
         Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DollxSpam_BOT")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/dominator454/DollXSpamBot")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/DOMINATOR-XD/DollXSpamBot")
         ]
         ]
         )
