@@ -25,6 +25,8 @@ DEAD_Help += f" `!raid` - to raid\n `!replyraid` - to active reply raid\n `!drep
 
 DEAD_Help += f" `!pornspam` - ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ😂 ↧\n\n"
 
+DEAD_Help += f" `!hang` - 😂 ↧\n\n"
+
 DEAD_Help += f"© @Dollx_spambot\n"
 
 
