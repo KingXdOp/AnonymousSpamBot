@@ -38,7 +38,7 @@ async def alive(event):
         Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DollxSpam_BOT")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/DOMINATOR-XD/DollXSpamBot")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/dominator454/DollXSpamBot")
         ]
         ]
         )
@@ -89,8 +89,8 @@ async def ping(e):
         ms = (end-start).microseconds / 1000
         await event.edit(f"▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀\n▒█▀▀▄ ▒█░░▒█ ░▒█░░\n▒█▄▄█ ▒█▄▄▄█ ░▒█░░\n\n ⚡️𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝙃𝙀𝙍𝙀⚡️ \n\n❤️ `{ms}` 𝗺𝘀 ❤️")
         
-                
-           
+        
+
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 @BOT1.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 @BOT2.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
