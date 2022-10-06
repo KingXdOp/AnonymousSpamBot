@@ -19,6 +19,7 @@ DEAD_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/f8d63b1dc5676fc9
 
 
 DEADLY = "✯ 𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝙃𝙀𝙍𝙀 ✯\n\n"
+DEADLY += f"**꧁🇮🇳 🎀  𝑀𝒶𝒹𝑒 𝐼𝓃 𝐼𝓃𝒹𝒾𝒶  🎀 🇮🇳꧂**\n"
 DEADLY += f"═══════════════════\n"
 DEADLY += f"• **𝙿𝚈𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `3.10.1`\n"
 DEADLY += f"• **𝚃𝙴𝙻𝙴𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `{version.__version__}`\n"
@@ -34,11 +35,11 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Dollx_spambot"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DollxSpam_BOT")
+        Button.url("☺️ᴄʜᴀɴɴᴇʟ☺️", "https://t.me/Dollx_spambot"),
+        Button.url("🇮🇳sᴜᴘᴘᴏʀᴛ🇮🇳", "https://t.me/DollxSpam_BOT")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/dominator454/DollXSpamBot")
+        Button.url("• 🙂ʀᴇᴘᴏ🙂 •", "https://github.com/DOMINATOR-XD/DollXSpamBot")
         ]
         ]
         )
