@@ -32,7 +32,7 @@ async def alive(event):
   if event.sender_id in SUDO_USERS:
      await BOT0.send_file(event.chat_id,
                                   DEAD_PIC,
-                                  caption=DEADLY,
+                                  caption=DOLL,
                                   buttons=[
         [
         Button.url("☺️ᴄʜᴀɴɴᴇʟ☺️", "https://t.me/Dollx_spambot"),
