@@ -15,7 +15,7 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-DEAD_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/f8d63b1dc5676fc9988f1.jpg"
+DOLL_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/f8d63b1dc5676fc9988f1.jpg"
 
 
 DOLL = "✯ 𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝙃𝙀𝙍𝙀 ✯\n\n"
@@ -31,7 +31,7 @@ DOLL += f"═══════════════════\n\n"
 async def alive(event):
   if event.sender_id in SUDO_USERS:
      await BOT0.send_file(event.chat_id,
-                                  DEAD_PIC,
+                                  DOLL_PIC,
                                   caption=DOLL,
                                   buttons=[
         [
