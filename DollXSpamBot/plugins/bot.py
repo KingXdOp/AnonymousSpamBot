@@ -37,6 +37,7 @@ async def alive(event):
         [
         Button.url("☺️ᴄʜᴀɴɴᴇʟ☺️", "https://t.me/Dollx_spambot"),
         Button.url("🇮🇳sᴜᴘᴘᴏʀᴛ🇮🇳", "https://t.me/DollxSpam_BOT")
+        Button.url("🙂NewPlugin🙂", "https://t.me/Dollx_spambot/11")
         ],
         [
         Button.url("• 🙂ʀᴇᴘᴏ🙂 •", "https://github.com/DOMINATOR-XD/DollXSpamBot")
