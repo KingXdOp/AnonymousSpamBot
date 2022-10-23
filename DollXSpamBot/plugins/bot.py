@@ -3,7 +3,7 @@ import asyncio
 import sys
 import git
 import heroku3
-# Changed root to DEADLYSPAM
+# Changed root to DOLLSPAM
 from DollXSpamBot import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9
 from DollXSpamBot import OWNER_ID, SUDO_USERS, HEROKU_APP_NAME, HEROKU_API_KEY, deadlyversion
 from DollXSpamBot import CMD_HNDLR as hl
