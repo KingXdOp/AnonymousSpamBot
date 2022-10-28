@@ -11,7 +11,7 @@
 - [x] Deploy 10 Bots in One time 🔥
 - [x] Deploy Using Bot Token 
 - [x] Porn Spam | Hang Spam `new`
-- [x] Soon Inline Spam
+- [x] Soon Inline Spam `soon`
 
 # Hᴏsᴛɪɴɢ
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DollX_SpamBot+𝚂𝚘𝚞𝚛𝚌𝚎;𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DollX_SpamBot+𝚂𝚘𝚞𝚛𝚌𝚎%E2%9D%A4%EF%B8%8F">
