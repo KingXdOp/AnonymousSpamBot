@@ -1,1 +1,1 @@
-worker: python3 -m DollXSpamBot
+worker: python3 -m SpamBot
