@@ -1,11 +1,11 @@
-from DollXSpamBot import BOT0,SUDO_USERS
+from SpamBot import BOT0,SUDO_USERS
 from telethon import events, Button
 from telethon.tl.custom import button
 from time import time
 from datetime import datetime
-from DollXSpamBot import CMD_HNDLR as hl
+from SpamBot import CMD_HNDLR as hl
     
-HELP_PIC = "https://telegra.ph/file/a21ba38c03755bce23bb6.jpg"
+HELP_PIC = "https://telegra.ph/file/b296b25f4b193fdcad68c.jpg"
 
 DOLL_Help = "🔥 𝘿𝙤𝙡𝙡 ✘ 𝙎𝙥𝙖𝙢 𝘽𝙤𝙩 🔥\n\n"
 
