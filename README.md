@@ -8,10 +8,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
-- [x] Deploy 10 Bots in One time 🔥
-- [x] Deploy Using Bot Token 
-- [x] Porn Spam | Hang Spam `new`
-- [x] Soon Inline Spam `soon`
+- [x] Deploy 10 AnonymousSpamBot In One Time 
+- [x] Deploy Using Bot Token
+- [x] Po*n spam|Hang Spam `new`
+- [x] AnonymousSpamTm Adding  Inline Spam `soon`
 
 # Hᴏsᴛɪɴɢ
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DollX_SpamBot+𝚂𝚘𝚞𝚛𝚌𝚎;𝙷𝚘𝚠+𝚃𝚘+𝙳𝚎𝚙𝚕𝚘𝚢+DollX_SpamBot+𝚂𝚘𝚞𝚛𝚌𝚎%E2%9D%A4%EF%B8%8F">
