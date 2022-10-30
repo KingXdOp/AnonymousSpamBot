@@ -3,7 +3,7 @@ import asyncio
 import os
 from telethon import events, Button
 from telethon.tl.custom import button
-from DollXSpamBot import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID, OWNER_NAME
+from SpamBot import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID, OWNER_NAME
 
 DOLL_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/b296b25f4b193fdcad68c.jpg"
 
