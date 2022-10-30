@@ -14,7 +14,7 @@ Button = [
         Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/DollxSpam_BOT")
         ],
         [
-        Button.url("• Rᴇᴘᴏ •", "https://github.com/dominator454/DollXSpamBot")
+        Button.url("• Rᴇᴘᴏ •", "https://github.com/KingXdOp/AnonymousSpamBot")
         ]
         ]
         
@@ -38,12 +38,10 @@ async def start(e):
         user_id = e.sender_id
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
-        creator = f"[⏤‌❥‌ 🖤𖣔ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ¤‌๋‌ࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ𖣔ꠋꠋ𑲭𑲭𑲭🦋⃟≛⃝🖤҉𓆩⍣⃟N1x乛DÕLL𓆪‌⍣⃟❤︎𓆪‌⍣⃟𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭𑲭](https://t.me/N1xDOLL)"
+        creator = f"[AnonymousSpamBot](https://github.com/KingXdOp/AnonymousSpamBot)"
         DOLL_ON = f"""
 ʜᴇʏ {mention},
 ᴛʜɪs ɪs sᴘᴀᴍʙᴏᴛ ᴘᴏᴡᴇʀᴇᴅ ʙʏ:- {creator}!
-
-ᴛʜɪs ʙᴏᴛ ɪs ꧁🇮🇳 🎀  𝑀𝒶𝒹𝑒 𝐼𝓃 𝐼𝓃𝒹𝒾𝒶  🎀 🇮🇳꧂
 
 ᴛʜɪs ʙᴏᴛ ᴏᴡɴᴇʀ:- {myOwner}
 
