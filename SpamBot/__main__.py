@@ -3,7 +3,7 @@ import sys
 from sys import argv
 import glob
 from pathlib import Path
-from DollXSpamBot.utils import load_plugins
+from SpamBot.utils import load_plugins
 import logging
 from telethon import events
 from . import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9
@@ -12,7 +12,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.WARNING)
 
 
-path = "DollXSpamBot/plugins/*.py"
+path = "SpamBot/plugins/*.py"
 files = glob.glob(path)
 for name in files:
     with open(name) as a:
@@ -20,7 +20,7 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-deadly = "🎉 Successfully Deployed SpamBot 🎉 @Dollx_spambot Enjoy! Do visit @DollxSpam_BOT"
+deadly = "🎉 Successfully Deployed SpamBot 🎉 Enjoy!"
 print(deadly[0: ])
 
 if __name__ == "__main__":
