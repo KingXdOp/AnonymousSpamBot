@@ -10,8 +10,8 @@ DOLL_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/b296b25f4b193fd
 
 Button = [
         [
-        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Dollx_spambot"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/DollxSpam_BOT")
+        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Bothub_xD"),
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/Crush_world_xD")
         ],
         [
         Button.url("• Rᴇᴘᴏ •", "https://github.com/KingXdOp/AnonymousSpamBot")
