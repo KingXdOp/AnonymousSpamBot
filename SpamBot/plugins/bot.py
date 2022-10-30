@@ -23,7 +23,7 @@ DOLL += f"**꧁🇮🇳 🎀  𝑀𝒶𝒹𝑒 𝐼𝓃 𝐼𝓃𝒹𝒾𝒶  �
 DOLL += f"═══════════════════\n"
 DOLL += f"• **𝙿𝚈𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `3.10.1`\n"
 DOLL += f"• **𝚃𝙴𝙻𝙴𝚃𝙷𝙾𝙽 𝚅𝙴𝚁𝚂𝙸𝙾𝙽** : `{version.__version__}`\n"
-DOLL += f"• **𝙳𝙾𝙻𝙻 𝚇 𝚂𝙿𝙰𝙼 𝙱𝙾𝚃 𝚅𝙴𝚁𝚂𝙸𝙾𝙽**  : `{deadlyversion}`\n"
+DOLL += f"• **𝚂𝙿𝙰𝙼 𝙱𝙾𝚃 𝚅𝙴𝚁𝚂𝙸𝙾𝙽**  : `{deadlyversion}`\n"
 DOLL += f"═══════════════════\n\n"   
 
                                   
@@ -35,11 +35,11 @@ async def alive(event):
                                   caption=DOLL,
                                   buttons=[
         [
-        Button.url("☺️ᴄʜᴀɴɴᴇʟ☺️", "https://t.me/Dollx_spambot"),
-        Button.url("🇮🇳sᴜᴘᴘᴏʀᴛ🇮🇳", "https://t.me/DollxSpam_BOT")
+        Button.url("☺️ᴄʜᴀɴɴᴇʟ☺️", "https://t.me/Bothub_xD"),
+        Button.url("🇮🇳sᴜᴘᴘᴏʀᴛ🇮🇳", "https://t.me/Crush_world_xD")
         ],
         [
-        Button.url("• 🙂ʀᴇᴘᴏ🙂 •", "https://github.com/DOMINATOR-XD/DollXSpamBot")
+        Button.url("• 🙂ʀᴇᴘᴏ🙂 •", "https://github.com/KingXdOp/AnonymousSpamBot")
         ]
         ]
         )
@@ -88,7 +88,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀\n▒█▀▀▄ ▒█░░▒█ ░▒█░░\n▒█▄▄█ ▒█▄▄▄█ ░▒█░░\n\n ⚡️𝙎𝙥𝙖𝙢 𝘽𝙊𝙏 𝙃𝙀𝙍𝙀⚡️ \n\n ꧁🇮🇳 🎀  𝑀𝒶𝒹𝑒 𝐼𝓃 𝐼𝓃𝒹𝒾𝒶  🎀 🇮🇳꧂ \n\n❤️ `{ms}` 𝗺𝘀 ❤️")
+        await event.edit(f"▒█▀▀█ ▒█▀▀▀█ ▀▀█▀▀\n▒█▀▀▄ ▒█░░▒█ ░▒█░░\n▒█▄▄█ ▒█▄▄▄█ ░▒█░░\n\n ⚡️𝙎𝙥𝙖𝙢 𝘽𝙊𝙏 𝙃𝙀𝙍𝙀⚡️ \n\n❤️ `{ms}` 𝗺𝘀 ❤️")
         
         
 
@@ -104,7 +104,7 @@ async def ping(e):
 @BOT9.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "𝐑𝐞𝐥𝐨𝐚𝐝𝐢𝐧𝐠 ↪️.. Please Wait Until It Starts Again"
+        text = "Ruk Ja Madar Chod \n\n 𝐑𝐞𝐥𝐨𝐚𝐝𝐢𝐧𝐠 ↪️.. Please Wait Until It Starts Again"
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
             await BOT0.disconnect()
