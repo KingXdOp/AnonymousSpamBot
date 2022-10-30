@@ -1,6 +1,6 @@
 from sqlalchemy import Column, String
 
-from DollXSpamBot.sql import BASE, SESSION
+from SpamBot.sql import BASE, SESSION
 
 
 class ECHOSQL(BASE):
