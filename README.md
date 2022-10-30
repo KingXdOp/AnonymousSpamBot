@@ -8,7 +8,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 - [x] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
-- [x] Deploy 10 AnonymousSpamBot In One Time 
+- [x] Deploy 10 AnonymousSpamBot In One Time 🔥
 - [x] Deploy Using Bot Token
 - [x] Po*n spam|Hang Spam `new`
 - [x] SpamBot Adding  Inline Spam `soon`
