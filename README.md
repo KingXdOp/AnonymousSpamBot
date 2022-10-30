@@ -12,7 +12,7 @@
 - [x] Deploy Using Bot Token
 - [x] Po*n spam|Hang Spam `new`
 - [x] SpamBot Adding  Inline Spam `soon`
-- [x] Powerd By> #### [AnonymousBoyxD](https://t.me//AnonymousBoyxD)
+- [x] Powerd_By→[AnonymousBoyxD](https://t.me//AnonymousBoyxD)
 # Hᴏsᴛɪɴɢ
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/KingXdOp/BOTDEPLOY"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
