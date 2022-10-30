@@ -16,7 +16,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 
 #version
 
-deadlyversion = "v0.4.0"
+deadlyversion = "v1.0"
 
 #values
 API_ID = config("API_ID", default=None, cast=int)
