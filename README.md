@@ -7,12 +7,12 @@
 ![logo](https://te.legra.ph/file/983194c848b1d97a3b814.jpg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- [★] ☯︎ ғᴀsᴛ ᴀɴᴅ sᴛᴀʙʟᴇ ☯︎
+- [★] ☯︎𝗔𝗻𝗼𝗻𝘆𝗺𝗼𝘂𝘀 𝗧𝗵𝗲 𝗠𝗼𝘀𝘁 𝗙𝗮𝘀𝘁𝗲𝘀𝘁 𝗦𝗽𝗮𝗺𝗕𝗼𝘁
 - [★] 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗲𝗻 𝗦𝗽𝗮𝗺𝗕𝗼𝘁 𝗜𝗻 𝗢𝗻𝗲 𝗧𝗶𝗺𝗲♕︎
 - [★] 𝗗𝗲𝗽𝗹𝗼𝘆 𝗨𝘀𝗶𝗻𝗴 𝗕𝗼𝘁 𝗧𝗼𝗸𝗲𝗻♕︎
 - [★] 𝗣𝗼𝗿𝗻 𝗦𝗽𝗮𝗺|𝗛𝗮𝗻𝗴𝗦𝗽𝗮𝗺 `𝗡𝗲𝘄`
 - [★] 𝗦𝗽𝗮𝗺𝗕𝗼𝘁 𝗔𝗱𝗱𝗶𝗻𝗴  𝗜𝗻𝗹𝗶𝗻𝗲 𝗦𝗽𝗮𝗺 `𝗦𝗼𝗼𝗻`
-- [★] Powerd_By→[𝗔𝗻𝗼𝗻𝘆𝗺𝗼𝘂𝘀𝗕𝗼𝘆𝘅𝗗](https://t.me//AnonymousBoyxD)
+- [★] 𝗣𝗼𝘄𝗲𝗿𝗱_𝗕𝘆→[𝗔𝗻𝗼𝗻𝘆𝗺𝗼𝘂𝘀𝗕𝗼𝘆𝘅𝗗](https://t.me//AnonymousBoyxD)
 # Hᴏsᴛɪɴɢ
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/KingXdOp/BOTDEPLOY"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
@@ -28,7 +28,7 @@
 
 <b>𝗧𝗵𝗶𝘀 𝗦𝗽𝗮𝗺 𝗜𝘀 𝗙𝘂𝗹𝗹𝘆 𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗢𝗻 𝗧𝗲𝗹𝗲𝘁𝗵𝗼𝗻 𝗔𝗻𝗱 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗪𝗶𝘁𝗵 𝗧𝗲𝗹𝗲𝘁𝗵𝗼𝗻 𝗦𝗼 𝗕𝗼𝘁 𝗜𝘀 𝗙𝘂𝗹𝗹𝘆 𝗦𝗮𝗳𝗲 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆,𝗪𝗲 𝗚𝗶𝘃𝗲𝘀 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 𝗧𝗼 𝗛𝗲𝗿𝗼𝗸𝘂 𝗔𝗻𝗱 𝗔𝗹𝘀𝗼 𝗜𝗻 𝗩𝗽𝘀 𝗙𝗼𝗿 𝗕𝗲𝘁𝘁𝗲𝗿 𝗦𝗽𝗮𝗺 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲</b>
 
-# CᴏɴᴛʀɪBᴜᴛᴏʀꜱ
+# CᴏɴᴛʀɪBᴜᴛᴏʀ
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=DOMINATOR-XD/DollXSpamBot)
 
