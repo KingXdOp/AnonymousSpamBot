@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# [𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬𝐒𝐩𝐚𝐦𝐁𝐨𝐭]
+# [𝐀𝐧𝐨𝐧𝐦𝐨𝐮𝐬𝐒𝐩𝐚𝐦𝐁𝐨𝐭]
 
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙰+𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖+Anonymous+𝚂𝚙𝚊𝚖+𝙱𝚘𝚝+𝙾𝚙𝚎𝚗+𝚂𝚘𝚞𝚛𝚌𝚎;𝚠𝚛𝚒𝚝𝚝𝚎𝚗+𝙸𝚗+Telethon%E2%9D%A4%EF%B8%8F">
 </p> 
@@ -7,12 +7,12 @@
 ![logo](https://te.legra.ph/file/983194c848b1d97a3b814.jpg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- [★] ☯︎𝗔𝗻𝗼𝗻𝘆𝗺𝗼𝘂𝘀 𝗧𝗵𝗲 𝗠𝗼𝘀𝘁 𝗙𝗮𝘀𝘁𝗲𝘀𝘁 𝗦𝗽𝗮𝗺𝗕𝗼𝘁
-- [★] 𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗲𝗻 𝗦𝗽𝗮𝗺𝗕𝗼𝘁 𝗜𝗻 𝗢𝗻𝗲 𝗧𝗶𝗺𝗲♕︎
-- [★] 𝗗𝗲𝗽𝗹𝗼𝘆 𝗨𝘀𝗶𝗻𝗴 𝗕𝗼𝘁 𝗧𝗼𝗸𝗲𝗻♕︎
-- [★] 𝗣𝗼𝗿𝗻 𝗦𝗽𝗮𝗺|𝗛𝗮𝗻𝗴𝗦𝗽𝗮𝗺 `𝗡𝗲𝘄`
-- [★] 𝗦𝗽𝗮𝗺𝗕𝗼𝘁 𝗔𝗱𝗱𝗶𝗻𝗴  𝗜𝗻𝗹𝗶𝗻𝗲 𝗦𝗽𝗮𝗺 `𝗦𝗼𝗼𝗻`
-- [★] 𝗣𝗼𝘄𝗲𝗿𝗱_𝗕𝘆→[𝗔𝗻𝗼𝗻𝘆𝗺𝗼𝘂𝘀𝗕𝗼𝘆𝘅𝗗](https://t.me//AnonymousBoyxD)
+- [★] `𝗔𝗻𝗼𝗻𝘆𝗺𝗼𝘂𝘀 𝗧𝗵𝗲 𝗠𝗼𝘀𝘁 𝗙𝗮𝘀𝘁𝗲𝘀𝘁 𝗦𝗽𝗮𝗺𝗕𝗼𝘁`
+- [★] `𝗗𝗲𝗽𝗹𝗼𝘆 𝗧𝗲𝗻 𝗦𝗽𝗮𝗺𝗕𝗼𝘁 𝗜𝗻 𝗢𝗻𝗲 𝗧𝗶𝗺𝗲`
+- [★] `𝗗𝗲𝗽𝗹𝗼𝘆 𝗨𝘀𝗶𝗻𝗴 𝗕𝗼𝘁 𝗧𝗼𝗸𝗲𝗻`
+- [★] `𝗣𝗼𝗿𝗻 𝗦𝗽𝗮𝗺|𝗛𝗮𝗻𝗴𝗦𝗽𝗮𝗺 𝗡𝗲𝘄`
+- [★] `𝗦𝗽𝗮𝗺𝗕𝗼𝘁 𝗔𝗱𝗱𝗶𝗻𝗴  𝗜𝗻𝗹𝗶𝗻𝗲 𝗦𝗽𝗮𝗺 𝗦𝗼𝗼𝗻`
+- [★] `𝗣𝗼𝘄𝗲𝗿𝗱_𝗕𝘆→[𝗔𝗻𝗼𝗻𝘆𝗺𝗼𝘂𝘀𝗕𝗼𝘆𝘅𝗗](https://t.me//AnonymousBoyxD)`
 # Hᴏsᴛɪɴɢ
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/KingXdOp/BOTDEPLOY"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
